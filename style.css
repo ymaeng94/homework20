@@ -1,0 +1,42 @@
+.yurimmaeng {
+    color: #ffffff;
+    background: rgb(224, 112, 200);
+    border: 1px solid #cccccc;
+    font-family:'Georgia', Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.nav {
+    float: right;
+    color: rgb(146, 11, 139);
+} 
+
+body{
+    background-image:url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+}
+h1 {
+    font-size:15px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin: 10px 900px 900px 100px;
+    border-bottom : 2px solid #dddddd; 
+}
+
+h2 {
+    color: palevioletred;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    overflow: hidden;
+}
+.card-title {
+    background: #4aaaa5;
+}
+.container {
+    float: left;
+}
+.card-img {
+    overflow: hidden;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+    margin: 20px; 
+}
